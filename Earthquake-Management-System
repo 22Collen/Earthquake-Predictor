@@ -78,6 +78,7 @@ SOLUTION TECHNIQUE:
 Techniques that our model is using to improve its accuracy are image analysis, GIS, collaboration platform, machine learning, and predictive analytics by scanning through social media 
 posts and news to find topics about earthquake occurrence.
 This will solve the problem of communities facing unexpected earthquake incidents since they will get warning to evacuate to safer places in time.
+This can be a potential indicator of an impending earthquake.
 
 NATURAL LANGUAGE PROCESSING:
 Human language is difficult for computer programs to understand, so we used natural language processing and its components, NLU and NLG to break down human text and voice data (inputs) 
